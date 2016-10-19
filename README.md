@@ -6,9 +6,8 @@ Embedded Atom Method Hydrogen Nickel potential
 ## Synopsis
 
 This is an implementation of EAM7 Ni(100)/H for the interaction of a single H atom with a Ni(100). 
-It is part of a comparison study with an improved Embedded Atom Potential.
+It is part of a comparison study with an improved Embedded Atom Potential. Literature:
 
-Literature:
 M. S. Daw and M. I. Baskes, Phys. Rev. B 29, 6443 (1984)
 
 Wonchoba, S. E., Truhlar, D. G. (1996) Phys. Rev. B 53:11222-11241 and REV B 51, 9985 (1995)
