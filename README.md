@@ -1,7 +1,7 @@
 # EAM7Routine
 Embedded Atom Method Hydrogen Nickel potential
 
-[![GPL licensed](https://img.shields.io/github/license/mashape/apistatus.svg)](http://github.com/jbr36/TauLeapingCode/blob/master/license.md)
+[![GPL licensed](https://img.shields.io/aur/license/yaourt.svg)](http://github.com/jbr36/EAM7Routine/blob/master/license.md)
 
 ## Synopsis
 
