@@ -13,10 +13,12 @@ M. S. Daw and M. I. Baskes, Phys. Rev. B 29, 6443 (1984)
 Wonchoba, S. E., Truhlar, D. G. (1996) Phys. Rev. B 53:11222-11241 and REV B 51, 9985 (1995)
 James T. Kindt and John C. Tully, J. Chem. Phys. 111, 11060 (1999)
 
-## Code (Example and tests will come soon)
+## Code (Example and tests)
 
 The input is an xyz structure of a Nickel(100) surface and a Hydrogen atom.
 The output is the potential energy of the input structure and its analytical gradients.
+
+Examples and tests will be published when the corresponding journal publication is online.
 
 ## Installation
 
