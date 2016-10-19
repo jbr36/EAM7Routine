@@ -23,4 +23,4 @@ Examples and tests will be published with the corresponding journal publication.
 
 ## Installation
 
-The code provides a subroutine which can easly be linked into main MD, RPMD, OPTIM etc. drivers.
+The code provides a subroutine which can easily be linked into main MD, RPMD, OPTIM etc. drivers.
