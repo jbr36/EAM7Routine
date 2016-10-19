@@ -19,7 +19,7 @@ James T. Kindt and John C. Tully, J. Chem. Phys. 111, 11060 (1999)
 The input is an xyz structure of a Nickel(100) surface and a Hydrogen atom.
 The output is the potential energy of the input structure and its analytical gradients.
 
-Examples and tests will be published when the corresponding journal publication is online.
+Examples and tests will be published with the corresponding journal publication.
 
 ## Installation
 
